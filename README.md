@@ -7,7 +7,7 @@ It covers the basics of R language, common operators and procedures, to more adv
 2. [Exploring Data: Basic Operations](https://html-preview.github.io/?url=https://github.com/wewagner/Rguides/blob/main/2%20-%20Data%20Exploration%20-%20WWagner%20(2025).html)
 3. [Common Operations: Merging, Aggregating, Subsetting, etc.](https://html-preview.github.io/?url=https://github.com/wewagner/Rguides/blob/main/3%20-%20Data%20Manipulation%2C%20Aggregation%2C%20Merging%20-%20WWagner%20(2025).html)
 4. [Data Visualizations in base R](https://html-preview.github.io/?url=https://github.com/wewagner/Rguides/blob/main/4%20-%20Data%20Viz%20in%20Base%20R%20(Plotting%20Part%201).html)
-5. [Data Visualizations in ggoplot2](https://html-preview.github.io/?url=https://github.com/wewagner/Rguides/blob/main/5%20-%20Data%20Viz%20in%20ggplot2%20(Plotting%20Part%202).html)
+5. [Data Visualizations in ggplot2](https://html-preview.github.io/?url=https://github.com/wewagner/Rguides/blob/main/5%20-%20Data%20Viz%20in%20ggplot2%20(Plotting%20Part%202).html)
 
 To view the html guides, you can (a) click the above links, (b) download the guides, or (c) view the pages through [html-preview.github.io](/html-preview.github.io).
 
